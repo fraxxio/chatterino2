@@ -209,6 +209,11 @@ const std::vector<ThemeDescriptor> Theme::builtInThemes{
         .path = ":/themes/Black.json",
         .name = "Black",
     },
+    {
+        .key = "Nord",
+        .path = ":/themes/Nord.json",
+        .name = "Nord",
+    },
 };
 
 // Dark is our default & fallback theme
