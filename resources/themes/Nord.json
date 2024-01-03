@@ -4,11 +4,11 @@
     "iconTheme": "light"
   },
   "colors": {
-    "accent": "#4dc4f0",
+    "accent": "#4E64AC",
     "messages": {
       "backgrounds": {
         "alternate": "#323845",
-        "regular": "#292e39"
+        "regular": "#272C36"
       },
       "disabled": "#99191919",
       "highlightAnimationEnd": "#00e6e6e6",
@@ -28,24 +28,24 @@
       "thumbSelected": "#005d73"
     },
     "splits": {
-      "background": "#292e39",
+      "background": "#272c36",
       "dropPreview": "#300094ff",
       "dropPreviewBorder": "#0094ff",
       "dropTargetRect": "#000094ff",
       "dropTargetRectBorder": "#000094ff",
       "header": {
         "background": "#333846",
-        "border": "#144464",
+        "border": "#41485A",
         "focusedBackground": "#3b4252",
-        "focusedBorder": "#424c61",
+        "focusedBorder": "#41485A",
         "focusedText": "#84c1ff",
         "text": "#ffffff"
       },
       "input": {
         "background": "#2e3440",
-        "text": "#ffffff"
+        "text": "#FFFFFF"
       },
-      "messageSeperator": "#3b4252",
+      "messageSeperator": "#272C36",
       "resizeHandle": "#700094ff",
       "resizeHandleBackground": "#200094ff"
     },
